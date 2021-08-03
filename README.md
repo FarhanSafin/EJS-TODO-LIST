@@ -1,2 +1,5 @@
 # EJS-TODO-LIST
- EJS WORK
+Technology:
+ <h1>EJS</h1>
+ <br>
+ <h1>JS</h1>
